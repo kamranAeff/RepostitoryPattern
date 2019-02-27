@@ -48,7 +48,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Attributes\Cases.cs" />
     <Compile Include="Attributes\ParamAttribute.cs" />
     <Compile Include="Common\AppException.cs" />
     <Compile Include="Extensions\DbContextExtensions.cs" />
