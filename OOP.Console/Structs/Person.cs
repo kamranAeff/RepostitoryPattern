@@ -10,7 +10,7 @@
         }
     }
 
-    public struct Student : Person
+    public struct Student : IMessage
     {
         int a, b;
         public Student(int a, int b)
